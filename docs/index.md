@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /guide/what-is-vitepress
+      link: /guide/start
     - theme: alt
       text: 点个star~
       link: https://github.com/vuejs/vitepress
